@@ -81,3 +81,36 @@ h4{
     margin-top: 10px;
     text-decoration: underline;
 }
+/*section 2*/
+.section2{
+    display: flex;
+    gap: 60px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(224, 220, 220);
+    padding: 20px 30px;
+    width: 70%;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 60px;
+}
+.icon{
+    text-align: center;
+}
+/* section3 */
+.section3{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(237, 228, 226);
+    padding: 70px 140px;
+}
+span{
+    color: red;
+}
+.section-text{
+    text-align: center;
+}
+.section-text p{
+    margin-top: 10px;
+}
