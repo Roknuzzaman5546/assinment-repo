@@ -56,7 +56,7 @@
     height: 380px;
 }
 .full2{
-    background-color: rgb(232, 203, 207);
+    background-color: rgb(179, 228, 232);
     padding-top: 70px;
     padding-left: 30px;
     padding-right: 30px;
@@ -68,7 +68,7 @@
 
 }
 .full3{
-    background-color: rgb(232, 203, 207);
+    background-color: rgb(247, 163, 174);
     padding-top: 70px;
     padding-left: 30px;
     padding-right: 30px;
@@ -178,4 +178,23 @@ hr{
     border-radius: 5px;
     border: 0;
     margin-left: 5px;
+}
+
+/* fotter part */
+footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(41, 38, 38);
+    padding: 60px 200px;
+    color: white;
+}
+.footer h5{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+.footer h1{
+    font-family: 'Caprasimo', cursive;
 }
