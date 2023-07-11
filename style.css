@@ -147,7 +147,7 @@ hr{
 }
 /* baground image par */
 .main{
-    background-image: url('/bg.png');
+    background-image: url('./bg.png');
     background-color: #cccccc;
     height: 250px;
     background-repeat: no-repeat;
@@ -173,7 +173,7 @@ hr{
     padding: 10px;
 }
 .hero-text input{
-    padding: 15px 60px;
+    padding: 15px 50px;
     border: 0;
     border-radius: 7px;
     background-color: white;
@@ -187,7 +187,6 @@ hr{
     border: 0;
     margin-left: 5px;
 }
-
 /* fotter part */
 footer{
     display: flex;
