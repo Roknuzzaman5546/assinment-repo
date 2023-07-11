@@ -8,17 +8,17 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    gap: 10px;
+    gap: 20px;
     background-color:rgb(204, 199, 192);
-    padding: 100px 80px;
+    padding:  60px 100px 0px 100px;
 }
 .head-photo img{
-    width: 350px;
-    height: 350px;
+    width: 320px;
+    height: 440px;
     padding-right: 30px;
 }
 .text h1{
-    font-size: 50px;
+    font-size: 40px;
 }
 .btn{
     padding: 12px 40px;
@@ -32,6 +32,9 @@
 .text p{
     margin-top: 10px;
     margin-bottom: 10px;
+}
+.text{
+    padding-bottom: 50px;
 }
 /* section 1*/
 .title{
@@ -57,7 +60,7 @@
     border-radius: 200px 200px 0 0;
 }
 .full1 img{
-    height: 380px;
+    height: 300px;
 }
 .full2{
     background-color: rgb(179, 228, 232);
@@ -67,8 +70,8 @@
     border-radius: 200px 200px 0 0;
 }
 .full2 img{
-    width: 280px;
-    height: 380px;
+    width: 220px;
+    height: 300px;
 
 }
 .full3{
@@ -79,7 +82,7 @@
     border-radius: 200px 200px 0 0;
 }
 .full3 img{
-    height: 380px;
+    height: 300px;
 }
 h4{
     text-align: center;
@@ -128,6 +131,7 @@ span{
 }
 .insta-photo{
     display: flex;
+    gap: 10px;
     justify-content: space-around;
     align-items: center;
     padding: 10px 200px;
